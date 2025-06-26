@@ -48,9 +48,7 @@ This system provides **real-time energy monitoring**, **anomaly detection**, and
 
 #### Install Dependencies
 
-```bash
 pip install -r requirements.txt
----
 
 ## 🤖 Machine Learning Integration
 
