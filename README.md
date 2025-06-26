@@ -80,6 +80,7 @@ Uses **Facebook Prophet** for 7-day energy predictions.
 ├── README.md
 ├── Presentation - Smart Energy Monitoring System.pdf
 └── IoT_Fundamentals_Project_Documentation_1368.pdf
+```
 
 ---
 
