@@ -69,12 +69,13 @@ Uses **Facebook Prophet** for 7-day energy predictions.
 
 ## 🗂️ File Structure
 
+```text
 ├── firmware/
-│ └── Smart_energry_monitering_IoT.ino
+│   └── Smart_energry_monitering_IoT.ino
 ├── dashboard/
-│ ├── dashboard.py
-│ ├── anomaliemodel.pkl
-│ └── energymodel.pkl
+│   ├── dashboard.py
+│   ├── anomaliemodel.pkl
+│   └── energymodel.pkl
 ├── requirements.txt
 ├── README.md
 ├── Presentation - Smart Energy Monitoring System.pdf
